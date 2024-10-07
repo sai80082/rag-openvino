@@ -1,4 +1,4 @@
-# Intel unnati
+# Simple RAG based llm using openvino
 
 ### To generate the optimized model run all the cells in the notebook
 
